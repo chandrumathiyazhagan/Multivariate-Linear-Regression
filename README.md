@@ -24,6 +24,7 @@ Create the LinearRegression model and predic he output.
 ```
 Developed by: M.CHANDRU
 Register No: 212222230026
+
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("/content/cars (1).csv")
@@ -35,14 +36,9 @@ print("Coefficient: ",regr.coef_)
 print("Intercept:",regr.intercept_)
 print("Account",regr.predict([[3300,1300]]))
 
-
 ```
 ## Output:
 ![image](https://github.com/chandrumathiyazhagan/Multivariate-Linear-Regression/assets/119393023/95e58454-4af9-417a-8e48-af1f5119cfdb)
-
-### Insert your output
-
-<br>
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
