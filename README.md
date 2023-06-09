@@ -19,7 +19,6 @@ Assign he values for x and y as requried.
 
 Step5:
 Create the LinearRegression model and predic he output.
-
 ## Program:
 ```
 Developed by: M.CHANDRU
